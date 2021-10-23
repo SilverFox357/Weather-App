@@ -1,0 +1,18 @@
+header h1 {
+    text-align: center;
+    background-color: blue;
+    color: white;
+    margin-top: 50px;
+};
+
+.search-list {
+    display: flex;
+    flex-wrap: wrap;
+    float: left;
+};
+
+.weather {
+    display: flex;
+    flex-wrap: wrap;
+    float: right;
+};
